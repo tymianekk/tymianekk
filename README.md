@@ -11,19 +11,18 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tymianekk&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tymianekk&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/email-%F0%9F%93%A7-lightgrey?style=for-the-badge"></a>
+  <a href="mailto:tymianekk1@gmail.com"><img src="https://img.shields.io/badge/email-%F0%9F%93%A7-lightgrey?style=for-the-badge"></a>
   <a href="https://discordapp.com/users/yourdiscordid"><img src="https://img.shields.io/badge/discord-%23sigma1234-blueviolet?style=for-the-badge&logo=discord"></a>
-  <a href="https://buymeacoffee.com/sigma"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-%E2%98%95-yellow?style=for-the-badge"></a>
 </p>
 
 ---
