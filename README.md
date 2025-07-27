@@ -29,5 +29,5 @@
 
 <p align="center">
   <a href="mailto:tymianekk.1@gmail.com"><img src="https://img.shields.io/badge/email-%F0%9F%93%A7-lightgrey?style=for-the-badge"></a>
-  <a href="https://discordapp.com/users/1085437666692182047" target="_blank"><img src="https://img.shields.io/badge/discord-@tymianekk_-blueviolet?style=for-the-badge&logo=discord"></a>
+  <a href="https://discordapp.com/users/1085437666692182047" target="_blank"><img src="https://img.shields.io/badge/discord-@tymianekk\_-blueviolet?style=for-the-badge&logo=discord"></a>
 </p>
