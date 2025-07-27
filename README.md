@@ -21,8 +21,8 @@
 ---
 
 <p align="center">
-  <a href="mailto:tymianekk1@gmail.com"><img src="https://img.shields.io/badge/email-%F0%9F%93%A7-lightgrey?style=for-the-badge"></a>
-  <a href="https://discordapp.com/users/yourdiscordid"><img src="https://img.shields.io/badge/discord-%23sigma1234-blueviolet?style=for-the-badge&logo=discord"></a>
+  <a href="mailto:tymianekk.1@gmail.com"><img src="https://img.shields.io/badge/email-%F0%9F%93%A7-lightgrey?style=for-the-badge"></a>
+  <a href="https://discordapp.com/users/yourdiscordid"><img src="https://img.shields.io/badge/discord-tymianekk-blueviolet?style=for-the-badge&logo=discord"></a>
 </p>
 
 ---
