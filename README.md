@@ -5,7 +5,14 @@
 </p>
 
 <p align="center">
-  💻 Code ~ 🔥 Chaos ~ 🖕 Bullshit  
+  <!-- Logos of programming languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
 </p>
 
 ---
@@ -22,7 +29,7 @@
 
 <p align="center">
   <a href="mailto:tymianekk.1@gmail.com"><img src="https://img.shields.io/badge/email-%F0%9F%93%A7-lightgrey?style=for-the-badge"></a>
-  <a href="https://discordapp.com/users/yourdiscordid"><img src="https://img.shields.io/badge/discord-tymianekk-blueviolet?style=for-the-badge&logo=discord"></a>
+  <a href="https://discordapp.com/users/1085437666692182047"><img src="https://img.shields.io/badge/discord-@tymianekk_-blueviolet?style=for-the-badge&logo=discord"></a>
 </p>
 
 ---
