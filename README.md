@@ -31,9 +31,3 @@
   <a href="mailto:tymianekk.1@gmail.com"><img src="https://img.shields.io/badge/email-%F0%9F%93%A7-lightgrey?style=for-the-badge"></a>
   <a href="https://discordapp.com/users/1085437666692182047" target="_blank"><img src="https://img.shields.io/badge/discord-@tymianekk_-blueviolet?style=for-the-badge&logo=discord"></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=I+code+shit+that+works;Deal+with+it.">
-</p>
